@@ -18,6 +18,7 @@ To install download the required files and folders from GitHub, initialize a rep
 ## Usage
 
 A link to the application being used via Insomnia can be found here:
+https://drive.google.com/file/d/1jJEgHwABzoBwlRZBjpVO4MOTsbyidXj7/view
 
 ## Credits
 
